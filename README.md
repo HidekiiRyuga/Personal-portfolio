@@ -1,4 +1,3 @@
-# Personal-portfolio
 # Personal Portfolio Website
 
 This repository contains the source code for my personal portfolio website, built using HTML. The portfolio showcases my skills, projects, and background.
